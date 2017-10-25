@@ -1,5 +1,5 @@
 # Palindrome_Program
-Programa que verifica se as strings de entrada são palíndromos ou se são strings espelhadas.
+Programa que verifica strings de entrada por arquivo.
 
 
-O objetivo do programa é ler as entradas do arquivo in.txt e verificar se os mesmos são Palíndromos ou Strings espelhadas, seguindo as regras do arquivo Table.txt.
+O objetivo do programa é ler as entradas do arquivo in.txt e verificar se os mesmos são Palíndromos ou Strings espelhadas, seguindo as regras de equivalência do arquivo Table.txt, para definir as strings espelhadas.
